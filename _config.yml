@@ -1,0 +1,21 @@
+# Site settings
+title: eskay.io
+header-img: img/home-bg.png
+email: singhstart@gmail.com
+copyright_name: eskayio
+description: > # this means to ignore newlines until "baseurl:"
+  eskay.io(law, code, design, startups,...)
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: samirsingh
+github_username:  eskayio
+learn_profile: eskayio
+email_username: singhstart@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
