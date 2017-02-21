@@ -4,9 +4,8 @@ header-img: img/network-banner.png
 email: samir@tritonbridge.com
 copyright_name: Triton Bridge
 description: > # this means to ignore newlines until "baseurl:"
-We help founders successfully commercialize.
 baseurl: "" # the subpath of your site, e.g. /blog
-#twitter_username: samirsingh
+twitter_username: samirsingh
 #github_username:  eskayio
 #learn_profile: eskayio
 email_username: samir@tritonbridge.com
